@@ -1,15 +1,15 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "GERMAX BOT 24/7",
+    "username": "GermaxBOT247",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "UAILANDIA.aternos.me",
     "port": 50803,
     "version": "",
-    "try-creative": true
+    "try-creative": false
   },
   "position": {
     "enabled": true,
